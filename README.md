@@ -2,7 +2,7 @@
 
 <p align="center">
      <a href="https://shahnidhi20.github.io/HW5_WorkDayScheduler/index.html">
-       <img src="./demo.png" alt="Logo" width="1200" height="500">
+       <img src="demo.png" alt="Logo" width="1200" height="500">
      </a>
    </p>
 
