@@ -1,7 +1,7 @@
 # 05 Third-Party APIs: Work Day Scheduler
 
 <p align="center">
-     <a href="https://shahnidhi20.github.io/HW3_Generate_Password/">
+     <a href="https://shahnidhi20.github.io/HW5_WorkDayScheduler/index.html">
        <img src="./passgen_demo.png" alt="Logo" width="1200" height="500">
      </a>
    </p>
@@ -22,7 +22,7 @@ NA
 
 ### Depolyed URL
 
-
+https://shahnidhi20.github.io/HW5_WorkDayScheduler/index.html
 
 ### Executing program
 

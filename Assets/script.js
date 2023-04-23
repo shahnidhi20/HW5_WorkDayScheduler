@@ -29,7 +29,7 @@ $(function () {
 
   // business hours is from 9 to 6
   var startBusinessHour = dayjs().hour(9).hour();
-  var endBusinessHour = dayjs().hour(23).hour();
+  var endBusinessHour = dayjs().hour(17).hour();
 
   console.log(startBusinessHour);
   console.log(endBusinessHour);
